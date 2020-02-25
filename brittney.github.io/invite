@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html>
+	<style> 
+    
+    .mainbody {
+      width:40%;
+      margin:auto;
+    }
+    
+    body {
+      margin:0px;
+      padding:0px;
+    }
+    
+    nav {
+      background:grey;
+      width:100%;
+      text-align:center;
+    }
+    
+    h1, nav, h3, li {
+      font-family:"Bad Script";
+    }
+       
+		h1 {
+      text-align:center;
+      font-size:4em;
+      margin-bottom:0px;
+		}
+
+    h3 {
+      text-align:center;
+      margin:0px;
+    }
+    
+    li {
+      display: inline-block;
+    }
+    
+    li a {
+      color:black;
+      text-decoration:none;
+      padding:0px 30px;
+      font-size:1.5em;
+    }
+    
+    li a:hover {
+      background:#494949;
+      color:white;
+    }
+    
+    #footer {
+      width:100%;
+      clear:both;
+      text-align:center;
+      background:grey;
+      height:100px;
+    }
+    
+    #space {
+      height:250px;
+      clear:both;
+    }
+	</style>
+	
+<!-- LINKS----------------------------------------- -->
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet">
+	<title>PICNIC</title>
+	<link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- LINKS----------------------------------------- -->
+
+    
+</head>
+
+
+<body>
+ 
+  <nav>
+      <li><a href="https://s.codepen.io/JellylBlue/debug/KXqbyr/VGrWNnXdXZoM">Picnic Locations</a></li>
+      <li><a href="https://s.codepen.io/JellylBlue/debug/WZOJPL/gaAeYJDDyLqA">Picnic Dishes </a></li>
+  </nav>
+  
+  <div id="cuisine">
+    <h1>PICNIC INVITE</h1>
+    <h3> From: Brittney Than To: Friend  </h3>
+  </div>  
+  <div class="mainbody">
+    
+  </div>
+
+  <div id="space">
+  </div>
+  <div id="footer">
+    <h3>Home page</h3>
+        <ul>
+      <li><a href="https://s.codepen.io/JellylBlue/debug/JrbBYY/yoMZEQaXKoJk">BACK</a></li> </ul>
+          </div>
+</body>
+</html>
